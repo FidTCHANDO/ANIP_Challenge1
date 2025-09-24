@@ -1,0 +1,14 @@
+nom,définitions,unité,source,periode,géographie
+ID,Identifiant,nombre,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Year,L'année de la donnée,nombre d'année,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+"Total Population, as of 1 July (thousands)",Effectif de la population au 1er juin,1000 habitants,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+"Male Population, as of 1 July (thousands)",Effectif des Hommes au 1er juin,1000 habitants,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+"Female Population, as of 1 July (thousands)",Effectif des Femmes au 1er juin,1000 habitants,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Births (thousands),Naissances total,1000 naissances,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Total Deaths (thousands),Décès total,1000 décès,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+"Life Expectancy at Birth, both sexes (years)",Expérience de vie à la naissances,nombre d'années,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Net Number of Migrants (thousands),Solde migratoire,1000 personnes,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+"Net Migration Rate (per 1,000 population)",Taux migratoire net,1000 habitants,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Population 0-14,Population 0 - 14 ans,habitant,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Population 15-59,Population 15 - 59 ans,habitant,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
+Population 60+,Population 60+,habitant,https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used,1950.0 - 2023.0,Benin
